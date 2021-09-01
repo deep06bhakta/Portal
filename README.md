@@ -1,4 +1,4 @@
-# Portal
+# Portal Game - Java
 Here is the text based adventure game built by - Deep, Roger, Coby, Ashley
 
 Tips
